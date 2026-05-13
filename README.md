@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Yash Kudale** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Prem Panhale** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### 🚀 MERN Stack Developer | AI/ML Enthusiast | Problem Solver | Open Source Contributor
 
@@ -38,7 +38,7 @@ const yash = {
 - 👯 I'm looking to collaborate on **Projects based on MERN Stack and AI/ML.**
 - 🏆 Goal: **Contribute more to open-source projects and build impactful AI solutions.**
 - 💬 Ask me about **MERN Stack Development, AI/ML, DSA, JavaScript, Python**
-- 📫 How to reach me: **yashkudale3068@gmail.com**
+- 📫 How to reach me: **prempanhale@gmail.com**
 - ⚡ **Would love to connect with like-minded people and collaborate on exciting projects.**
 
 ---
