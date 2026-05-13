@@ -38,7 +38,7 @@ const yash = {
 - 👯 I'm looking to collaborate on **Projects based on MERN Stack and AI/ML.**
 - 🏆 Goal: **Contribute more to open-source projects and build impactful AI solutions.**
 - 💬 Ask me about **MERN Stack Development, AI/ML, DSA, JavaScript, Python**
-- 📫 How to reach me: **prempanhale@gmail.com**
+- 📫 How to reach me: **c2k23154@ms.pict.edu**
 - ⚡ **Would love to connect with like-minded people and collaborate on exciting projects.**
 
 ---
@@ -47,10 +47,10 @@ const yash = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kudale-276196297/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kudale3068)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashkudale7968/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkudale3068@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panhale-prem-b91512289?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prem_panhale)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prem0102/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c2k23154@ms.pict.edu)
 
 </div>
 
