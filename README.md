@@ -65,13 +65,13 @@ const yash = {
 <td align="center" width="50%">
 
 ### 🔥 **LeetCode Progress**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prem_panhale?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Prem0102/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Prem0102?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Prem0102/)
 
 </td>
 <td align="center" width="50%">
 
 ### 🏅 **CodeChef Profile**
-<a href="https://www.codechef.com/users/prem_panhale" target="_blank">
+<a href="https://www.codechef.com/users/Prem0102" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-prem_panhale-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
 </a>
 <br><br>
